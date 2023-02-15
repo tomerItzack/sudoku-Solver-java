@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author tomer
+ *
+ */
+module sudoku {
+}
